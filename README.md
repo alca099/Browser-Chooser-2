@@ -4,6 +4,10 @@ Since the official website for Browser Chooser 2 is no longer up (it just contai
 
 ![alt text](https://github.com/alca099/Browser-Chooser-2/blob/main/info.png)
 
-*To be able to choose the Browser Chooser 2 as the default app for opening links, you first need to add Browser Chooser 2 to the default apps as shown in the following image ![alt text](https://github.com/alca099/Browser-Chooser-2/blob/main/default%20setting.png).
+To be able to choose the Browser Chooser 2 as the default app for opening links, you first need to add Browser Chooser 2 to the default apps as shown in the following image 
 
-Afterwards you can set Browser Chooser 2 as the default Web Browser app ![alt text](https://github.com/alca099/Browser-Chooser-2/blob/main/set%20default.png)
+![alt text](https://github.com/alca099/Browser-Chooser-2/blob/main/default%20setting.png).
+
+Afterwards you can set Browser Chooser 2 as the default Web Browser app 
+
+![alt text](https://github.com/alca099/Browser-Chooser-2/blob/main/set%20default.png)
